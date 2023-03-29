@@ -16,7 +16,7 @@ ___
 * ML_feature1 >> 학습을 위해 만든 features 1
 * ML_feature2 >> 학습을 위해 만든 features 2
 * ML_model1 >> ML_feature를 학습시키고 앙상블을 통해 성별을 예측하는 코드
-* 
+
 ##### 데이터 설명
 
 * 롯데백화점 구매데이터 
