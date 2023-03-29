@@ -11,7 +11,7 @@ ___
 
 * transaction.csv >> 롯데백화점 고객 구매데이터
 * features.csv >> transaction data를 이용해 만들어진 features
-* target.csv / y_train >> 여성 0 남섬 1로 분류된 성별 데이터
+* target.csv / y_train >> 여성 0 남 1로 분류된 성별 데이터
 * train/test_transactions.csv transaction data를 학습을 위해 train과 test로 나눠놓은 데이터
 * ML_feature1 >> 학습을 위해 만든 features 1
 * ML_feature2 >> 학습을 위해 만든 features 2
